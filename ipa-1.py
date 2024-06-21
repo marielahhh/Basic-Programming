@@ -156,3 +156,4 @@ def body_mass_index(weight, height):
         bmi = (weight_metric)/(height_metric ** 2)
         return float(bmi)
 # Adding a new line to force a change
+# Dummy change
